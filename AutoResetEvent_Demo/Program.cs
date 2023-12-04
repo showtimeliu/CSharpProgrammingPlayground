@@ -47,8 +47,9 @@ namespace AutoResetEvent_Demo
                 Thread.Sleep(250);
             }
 
+
             // Visual Studio: Uncomment the following line.
-            //Console.Readline();
+            Console.ReadLine();
         }
 
         static void ThreadProc()
